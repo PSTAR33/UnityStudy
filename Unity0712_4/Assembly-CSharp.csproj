@@ -57,8 +57,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Move.cs" />
     <Compile Include="Assets\PipeObjectMove.cs" />
     <Compile Include="Assets\Player.cs" />
+    <Compile Include="Assets\Shooter.cs" />
+    <Compile Include="Assets\Singletonmanager.cs" />
+    <Compile Include="Assets\deltaTime.cs" />
+    <Compile Include="Assets\endscene.cs" />
+    <Compile Include="Assets\scenemanager.cs" />
+    <Compile Include="Assets\serialzed.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
